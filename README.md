@@ -25,7 +25,7 @@ Then install the requirements:
 pip install -r requirements.txt
 ```
 
-Then run migrations to create the database/tables, run the server and create a superuser: 
+Then run migrations to create the database/tables, run the server and create a superuser to access /admin: 
 
 ```sh  
 python manage.py migrate
