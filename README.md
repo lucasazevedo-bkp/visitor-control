@@ -1,10 +1,11 @@
-# COURSE - Django framework na prática
+# Udemy course - Django framework na prática
 > Visitor control system.
 >
 > <https://www.udemy.com/course/djangoframeworknapratica>
 >
 > [Certificate](https://ude.my/UC-f56f9e40-d3ac-41af-9443-154d733241e4/)
 
+![Ubuntu Version](https://img.shields.io/badge/ubuntu-20.04-blue)
 ![Python Version](https://img.shields.io/badge/python-3.8.10-blue)
 ![SQLite Version](https://img.shields.io/badge/sqlite-3.x-blue)
 ![Django Version](https://img.shields.io/badge/django-3.2.10-blue)
@@ -19,13 +20,13 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-Then install the requirements:
+Install the requirements:
 
 ```sh  
 pip install -r requirements.txt
 ```
 
-Then run migrations to create the database/tables, run the server and create a superuser to access /admin: 
+Run migrations to create the database/tables, run the server and create a superuser to access /admin: 
 
 ```sh  
 python manage.py migrate
