@@ -1,9 +1,7 @@
-# Udemy course - Django framework na prática
-> Visitor control system.
+# Visitor control
+> Condominium visitor control.
 >
-> <https://www.udemy.com/course/djangoframeworknapratica>
->
-> [Certificate](https://ude.my/UC-f56f9e40-d3ac-41af-9443-154d733241e4/)
+> [Course](https://www.udemy.com/course/djangoframeworknapratica) | [Certificate](https://ude.my/UC-f56f9e40-d3ac-41af-9443-154d733241e4)
 
 ![Ubuntu Version](https://img.shields.io/badge/ubuntu-20.04-blue)
 ![Python Version](https://img.shields.io/badge/python-3.8.10-blue)
