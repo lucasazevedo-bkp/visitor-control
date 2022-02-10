@@ -24,6 +24,14 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
+Add an .env file with the following variables:
+
+```sh  
+# .env content
+# for example, DJANGO_SECRET_KEY=hashed_secret_key
+DJANGO_SECRET_KEY=
+```
+
 Run migrations to create the database/tables, run the server and create a superuser to access /admin: 
 
 ```sh  
